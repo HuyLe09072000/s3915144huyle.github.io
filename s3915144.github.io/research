@@ -1,0 +1,28 @@
+---
+layout: default
+title: My academic experience...
+---
+<div class="blurb">
+	<h1>{{ page.title }}</h1>
+<p>
+	</p>
+	<h3>Personal Studies</h3>
+
+<ul>
+<li><b>RMIT University</b>: Hồ Chí Minh City, HCMC, VN 2021 to 2025 | Student (Major: Robotics Engineering)</li></p>
+<li><b>North Seattle College</b>:9600 College Way N, Seattle, WA 98103, USA Jan 2019 to Aug 2020 | Student (Major: Mechanical Engineering)</li></p>
+<li><b>Christian Calvary Academy</b> : 908 US-62 Spur, Berryville, AR 72616, USA Sep 2017 to May 2018 | Highschool Senior (Graduated)</p></li>
+<li><b>Phan Chau Trinh Highschool</b>:154 Le Loi Street, Hai Chau 1 Ward, Hoa Vang District, Da Nang Sep 2015 to May 2017</li></p>
+</ul>
+
+
+
+<h3>Skills</h3>
+
+<ul>
+<li><b>MS Excel (intermediate) MS Word, MS PowerPoint, MS Outlook</li></p>
+<li><b>Excellent communication and interpersonal skills</li></p>
+<li><b>Ability to work effectively individually and with a team</li></p>
+</ul>
+
+</div><!-- /.blurb -->
